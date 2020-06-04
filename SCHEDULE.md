@@ -23,3 +23,4 @@ Your final grade will be determined as follows:
 ```
 final_grade = 0.25 * (grade_test1 + grade_test2 + grade_test3) / 3 + 0.75 * (grade_lab1 + grade_lab2 + grade_lab3)
 ```
+
